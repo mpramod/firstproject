@@ -3,6 +3,6 @@ public class User {
 
 	private String name;
 	public static void main(String args[]) {
-		System.out.println("User object");
+		System.out.println("User object mmm");
 	}
 }
