@@ -1,8 +1,8 @@
 
-public class User {
+public class Employee {
 
 	private String name;
 	public static void main(String args[]) {
-		System.out.println("User object");
+		System.out.println("Employee object");
 	}
 }
